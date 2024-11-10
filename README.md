@@ -1,4 +1,4 @@
-Título: Análise Preditiva de Imóveis: Uma Abordagem com Machine Learning
+Análise Preditiva de Imóveis: Modelos de Regressão.
 
 Descrição:
 
