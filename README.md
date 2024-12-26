@@ -3,8 +3,8 @@ Análise Preditiva de Imóveis: Modelos de Regressão.
 Descrição:
 
 Este projeto tem como objetivo desenvolver um modelo de machine learning capaz de prever o valor de imóveis com base em um conjunto de dados históricos. 
-Utilizamos diversas técnicas de aprendizado de máquina, como regressão linear, árvores de decisão e random forest, para construir e comparar diferentes modelos. Através da validação cruzada, 
-otimizamos os hiperparâmetros e avaliamos a performance dos modelos.
+Utilizei diversas técnicas de aprendizado de máquina, como regressão linear, árvores de decisão e random forest, para construir e comparar diferentes modelos. Através da validação cruzada, 
+otimizei os hiperparâmetros e avaliamos a performance dos modelos.
 
 Metodologia:
 
