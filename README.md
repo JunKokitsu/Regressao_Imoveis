@@ -41,4 +41,4 @@ Tecnologias Utilizadas:
 
 Linguagem de Programação: Python
 Bibliotecas: Spark, Pyspark.sql, Pyspark.ml, Pandas, Matplotlib
-Ambiente: [mencionar o ambiente utilizado, por exemplo, Google Colab, Jupyter Notebook]
+Ambiente: Google Colab
