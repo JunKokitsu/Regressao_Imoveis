@@ -4,7 +4,7 @@ Descrição:
 
 Este projeto tem como objetivo desenvolver um modelo de machine learning capaz de prever o valor de imóveis com base em um conjunto de dados históricos. 
 Utilizei diversas técnicas de aprendizado de máquina, como regressão linear, árvores de decisão e random forest, para construir e comparar diferentes modelos. Através da validação cruzada, 
-otimizei os hiperparâmetros e avaliamos a performance dos modelos.
+otimizei os hiperparâmetros e avaliei a performance dos modelos.
 
 Metodologia:
 
